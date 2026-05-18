@@ -1,0 +1,16 @@
+﻿warehouse_id,warehouse_name,city,state,capacity_units
+WH001,Central Med Hub,Bangalore,Karnataka,5000
+WH002,NorthCare Storage,Mumbai,Maharashtra,7000
+WH003,Prime Health Depot,Delhi,Delhi,6500
+WH004,CityMed Warehouse,Hyderabad,Telangana,4800
+WH005,WellLife Storage,Chennai,Tamil Nadu,5200
+WH006,NovaCare Hub,Pune,Maharashtra,6100
+WH007,MediCore Depot,Kolkata,West Bengal,4500
+WH008,HealthPlus Warehouse,Ahmedabad,Gujarat,5800
+WH009,TrustMed Storage,Jaipur,Rajasthan,4900
+WH010,VitalCare Hub,Lucknow,Uttar Pradesh,5300
+WH011,Elite Pharma Depot,Bhopal,Madhya Pradesh,6200
+WH012,SafeMeds Warehouse,Patna,Bihar,4100
+WH013,BioHealth Storage,Chandigarh,Punjab,5600
+WH014,CureLine Hub,Surat,Gujarat,4700
+WH015,GlobalCare Depot,Nagpur,Maharashtra,6000

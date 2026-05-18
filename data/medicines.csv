@@ -1,0 +1,31 @@
+﻿Medicine_id,Medicine_name,Category,Manufacturer,expiry_duration,UnitPrice
+MED101,Paracetamol,Pain Relief,HealCare Pharma,24 Months,12
+MED102,Amoxicillin,Antibiotic,MedLife Labs,18 Months,25
+MED103,Ibuprofen,Pain Relief,Zenith Pharma,24 Months,18
+MED104,Cetirizine,Allergy,NovaMed,24 Months,15
+MED105,Azithromycin,Antibiotic,BioCure Pharma,18 Months,40
+MED106,Metformin,Diabetes,GlucoHealth Ltd,36 Months,55
+MED107,Omeprazole,Gastric,WellCare Pharma,24 Months,30
+MED108,Dolo 650,Fever,MicroMed Labs,24 Months,20
+MED109,Crocin,Fever,PrimeCure Pharma,24 Months,22
+MED110,Vitamin C,Supplement,NutriLife Pharma,36 Months,10
+MED111,Aspirin,Blood Thinner,Zenith Pharma,24 Months,14
+MED112,Pantoprazole,Gastric,HealCare Pharma,24 Months,35
+MED113,Levocetirizine,Allergy,NovaMed,24 Months,16
+MED114,Cough Syrup,Cold & Cough,BioCure Pharma,12 Months,80
+MED115,ORS Powder,Hydration,NutriLife Pharma,18 Months,12
+MED116,Calcium Tablet,Supplement,MedLife Labs,36 Months,28
+MED117,Iron Supplement,Supplement,GlucoHealth Ltd,36 Months,26
+MED118,Antacid Gel,Gastric,WellCare Pharma,18 Months,45
+MED119,Insulin,Diabetes,PrimeCure Pharma,12 Months,150
+MED120,Diclofenac,Pain Relief,Zenith Pharma,24 Months,38
+MED121,Amlodipine,Blood Pressure,HealCare Pharma,36 Months,60
+MED122,Atorvastatin,Cholesterol,MedLife Labs,36 Months,75
+MED123,Ranitidine,Gastric,NovaMed,24 Months,32
+MED124,Multivitamin,Supplement,NutriLife Pharma,36 Months,50
+MED125,Zinc Tablet,Supplement,BioCure Pharma,24 Months,18
+MED126,Saline Solution,Hydration,PrimeCure Pharma,18 Months,20
+MED127,Eye Drops,Eye Care,MicroMed Labs,12 Months,65
+MED128,Nasal Spray,Cold & Cough,WellCare Pharma,18 Months,70
+MED129,Pain Relief Balm,External Care,Zenith Pharma,24 Months,25
+MED130,Antiseptic Cream,Skin Care,HealCare Pharma,24 Months,30
