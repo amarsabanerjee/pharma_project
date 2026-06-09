@@ -201,15 +201,6 @@ The project includes advanced statistical analysis using Python and Statsmodels:
 
 ---
 
-## 📌 Statistical Analytics Dashboard
-
-* Forecast Trends
-* Moving Average Analysis
-* Seasonality Insights
-* Correlation Visualization
-
----
-
 # 🔍 Key Insights
 
 * Strong positive correlation between Quantity Sold and Revenue
